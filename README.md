@@ -23,7 +23,7 @@ This is a basic RESTful API built with **Node.js**, **Express**, and **Joi** for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/murilocardoso7/your-repo-name.git
+   git clone https://github.com/murilocardoso7/Course-API-Node.js-Express.git
    ```
 
 2. Install dependencies:
